@@ -3,7 +3,7 @@ body {
   width: 100vw;
   background: rgb(250, 250, 250);
   color: black;
-  font-family: "Segoe UI";
+  font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
   margin: 0px;
 }
 
